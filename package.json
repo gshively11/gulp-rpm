@@ -1,0 +1,30 @@
+{
+  "name": "gulp-rpm",
+  "version": "0.0.0",
+  "description": "Gulp task to create rpm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gshively11/gulp-rpm.git"
+  },
+  "keywords": [
+    "gulp",
+    "rpm",
+    "package",
+    "gulpplugin",
+    "rpmbuild",
+    "yum"
+  ],
+  "author": {
+    "name": "Grant Shively",
+    "email": "gshively@godaddy.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gshively11/gulp-rpm/issues"
+  },
+  "homepage": "https://github.com/gshively11/gulp-rpm"
+}
